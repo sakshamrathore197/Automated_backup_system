@@ -1,0 +1,32 @@
+# Google OAuth credentials
+credentials.json
+token.json
+client_secret_*.json
+
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary backup files
+*.tmp
+git status
+
+[A
+
+
+
+
+qw
+
